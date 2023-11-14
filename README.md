@@ -1,7 +1,7 @@
 # Restaurant-Revenue-Prediction
 Machine learning model to predict revenue of the restaurant based on the features present in the dataset.
-Project Title: Restaurant Revenue Prediction with Machine Learning
-Description:
+### Project Title: Restaurant Revenue Prediction with Machine Learning
+### Description:
 Welcome to the "Restaurant Revenue Prediction" project, where we employ machine learning to forecast the revenue of a restaurant based on a dataset rich in various features. This project aims to empower restaurant owners and stakeholders with accurate revenue forecasts, aiding in decision-making and operational planning.
 
 Key Objectives:
